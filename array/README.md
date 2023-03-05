@@ -4,7 +4,8 @@ description: Problems in LeetCode with tag "array"
 
 # Array
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="../" %}
+[..](../)
 {% endcontent-ref %}
 
+1.

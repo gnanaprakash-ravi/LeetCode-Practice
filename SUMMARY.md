@@ -1,8 +1,6 @@
 # Table of contents
 
 * [LeetCode Problems](README.md)
-* [Array](array.md)
-
-## Array
-
-* [Page 1](array-1/page-1.md)
+* [Array](array/README.md)
+  * [Array Partition 1](array/array-partition-1.md)
+  * [Toeplitz Matrix](array/toeplitz-matrix.md)
