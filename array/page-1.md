@@ -4,15 +4,9 @@ description: Problems in LeetCode with tag "array"
 
 # Page 1
 
-
-
-<details>
-
-<summary>Array partition</summary>
-
-
-
-</details>
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 {% tabs %}
 {% tab title="array 1" %}
