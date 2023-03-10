@@ -11,3 +11,7 @@ description: Problems in LeetCode with tag "array"
 {% content-ref url="toeplitz-matrix.md" %}
 [toeplitz-matrix.md](toeplitz-matrix.md)
 {% endcontent-ref %}
+
+{% content-ref url="find-all-numbers-disappeared-in-an-array.md" %}
+[find-all-numbers-disappeared-in-an-array.md](find-all-numbers-disappeared-in-an-array.md)
+{% endcontent-ref %}
