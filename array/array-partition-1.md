@@ -1,3 +1,7 @@
+---
+description: Easy
+---
+
 # Array Partition 1
 
 #### Solution

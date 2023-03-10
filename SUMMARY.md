@@ -6,3 +6,4 @@
   * [Toeplitz Matrix](array/toeplitz-matrix.md)
   * [Find All Numbers Disappeared in an Array](array/find-all-numbers-disappeared-in-an-array.md)
   * [Max Area of Island](array/max-area-of-island.md)
+  * [Move Zeros](array/move-zeros.md)

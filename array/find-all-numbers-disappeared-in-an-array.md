@@ -1,3 +1,7 @@
+---
+description: Easy
+---
+
 # Find All Numbers Disappeared in an Array
 
 ### Solution:

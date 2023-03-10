@@ -1,3 +1,7 @@
+---
+description: Easy
+---
+
 # Toeplitz Matrix
 
 ### Solutions:
